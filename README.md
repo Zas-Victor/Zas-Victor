@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white" alt="Javascript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/JQuery-0769AD?logo=jquery&logoColor=white" alt="JQuery"/>
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white" alt="ReactJS"/>
@@ -35,6 +34,7 @@
 ### API
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/REST-E6484F?logoColor=white" alt="REST"/>
+  <img src="https://img.shields.io/badge/WebSocket-00BFFF?logo=websocket&logoColor=white" alt="WebSocket"/>
 </div>
 
 ### Version control
