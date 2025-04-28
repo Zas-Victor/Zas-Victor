@@ -17,8 +17,11 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/JQuery-0769AD?logo=jquery&logoColor=white" alt="JQuery"/>
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white" alt="ReactJS"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white" alt="React Native"/>
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" alt="Electron"/>
+  <img src="https://img.shields.io/badge/Expo-1C2024?logo=expo&logoColor=white" alt="Expo"/>
 </div>
 
 ### Back-end
@@ -29,12 +32,7 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-</div>
-
-### API
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/REST-E6484F?logoColor=white" alt="REST"/>
-  <img src="https://img.shields.io/badge/WebSocket-00BFFF?logo=websocket&logoColor=white" alt="WebSocket"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white" alt="socket.io"/>
 </div>
 
 ### Version control
@@ -43,12 +41,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
-### infrastructure
+### Infrastructure
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" alt="Heroku"/>
-  <img src="https://img.shields.io/badge/Windows Server-0078D6?logo=windows&logoColor=white" alt="Windows Server"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=white" alt=".ENV"/>
 </div>
 
 ### Database
