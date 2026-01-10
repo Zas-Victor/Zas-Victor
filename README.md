@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=41&duration=4000&pause=1000&color=3A399F&center=true&vCenter=true&width=1000&lines=O+conhecimento+%C3%A9+gratuito.;Um+soldado+da+tiros%2C+um+hacker+da+Enter!;Algoritmos+criam+sonhos.;C%C3%B3digos+s%C3%A3o+o+reflexo+da+mente.)](https://git.io/typing-svg)
 
+<br/>
+<br/>
 ## Skills
 
 ### Front-end
@@ -54,8 +56,6 @@
 </div>
 <br>
 <br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zas-Victor&bg_color=020c2c&color=6d2c68&line=3d007a&point=6e6868&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
